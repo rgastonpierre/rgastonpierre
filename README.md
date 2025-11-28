@@ -1,21 +1,19 @@
-# Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm Richard Gaston-Pierre
+<a href="https://www.linkedin.com/in/richgp/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Recent graduate of Flatiron School’s Cybersecurity Engineering program with hands-on experience across threat detection, network security, incident response, and defensive security tooling. Adept at analyzing security events, performing vulnerability assessments, and applying industry frameworks to strengthen organizational security posture. Demonstrated proficiency with SIEM platforms, log analysis, endpoint security, and core networking concepts, supported by practical projects simulating real-world attack and defense scenarios. Brings a strong technical foundation, disciplined problem-solving approach, and a commitment to continuous learning within modern cybersecurity environments.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. <a></a>
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Threat Aanlysis          | <a href="https://github.com/rgastonpierre/Flatiron-Capstone-Project">Flatiron Capstone Project</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
